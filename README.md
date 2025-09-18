@@ -1,8 +1,5 @@
 # nitzutz-health-app
 AI-powered mental health companion with security implementation
-# Project README Templates for GitHub Portfolio
-
-## Template 1: Nitzutz Health App Project
 
 ```markdown
 # Nitzutz Health App - Anonymous AI Mental Health Companion
